@@ -3,7 +3,7 @@
 ## Prepare the environment
 Install the necessary dependencies by running:
 ```
-        pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 ## Prepare the dataset
 
