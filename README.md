@@ -1,4 +1,4 @@
-# Image_Retrieval_FAISS_Streamlit
+# Image Retrieval with FAISS and Streamlit
  
 ## Prepare the environment
 Install the necessary dependencies by running:
